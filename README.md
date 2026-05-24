@@ -1,4 +1,4 @@
-# 🚕 Taxi Application — SQL & Backend Testing Project
+# 🚕 Taxi Application - SQL & Backend Testing Project
 
 ## 📌 Project Overview
 
