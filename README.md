@@ -1,4 +1,4 @@
-# Taxi Application — SQL & Backend Testing Project
+# Taxi Application - SQL & Backend Testing Project
 
 ## 📌 Project Overview
 Technical QA project focused on SQL analysis, backend validation, Linux log investigation, debugging, and database testing for a taxi application platform.
